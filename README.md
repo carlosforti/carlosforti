@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Carlos Forti's github stats](https://github-readme-stats.vercel.app/api?username=carlosforti&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Carlos Forti's github stats](https://github-readme-stats.vercel.app/api?username=carlosforti&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosforti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosforti&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **carlosforti/carlosforti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
